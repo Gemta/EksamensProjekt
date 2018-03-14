@@ -14,6 +14,7 @@ void setup() {
 
 void retriveItem(){
   
+    
 }
 
 void storeItem(){
@@ -22,13 +23,7 @@ void storeItem(){
 }
 
 void loop() {
-  if (Serial.available() > 0){
-    auto Data = Serial.readString();
-    
 
-
-      
-    }
 }
 
 
